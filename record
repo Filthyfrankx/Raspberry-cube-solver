@@ -1,0 +1,19 @@
+1.序列号
+2.台编号 。sh
+3.舵机动作微调
+/****************1*****************/巴士光年
+#!/bin/sh
+cd /home/pi/AXY_MaiTa_20210321_1
+sudo ./AXY_MaiTa_20210321_1_ 000000003f1739e1
+
+/home/pi/AXY_MaiTa_20210321_1            /AXY_MaiTa_20210321_1_000000003f1739e1  /threshold
+
+
+
+
+/****************2*****************/透明
+#!/bin/sh
+cd /home/pi/AXY_MaiTa_20210321_2
+sudo ./AXY_MaiTa_20210321_2_ 000000000dba8fe8
+
+/home/pi/AXY_MaiTa_20210321_2            /AXY_MaiTa_20210321_2_000000000dba8fe8  /threshold
